@@ -1,4 +1,4 @@
-# PokemonEmporium
+# JpDeathBlade's Pokemon Emporium
 Game saves for Pokemon Ultra Sun.
 
 # Prep
